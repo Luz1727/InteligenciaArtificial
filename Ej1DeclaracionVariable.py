@@ -7,4 +7,3 @@ altura = 1.75
 print("nombre: ", nombre)
 print("Edad: ", edad)
 print("Altura: ", altura)
-print("En 5 años tendré 30 años ")
